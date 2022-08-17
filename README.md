@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/4a7ff6470446304e4dbde589908b582f/tumblr_mw7iflGf3V1smj5iyo1_500.gifv" width="250"/>
+  <img src="https://64.media.tumblr.com/4a7ff6470446304e4dbde589908b582f/tumblr_mw7iflGf3V1smj5iyo1_500.gifv" width="350"/>
   <div id="badges">
     <a href="your-linkedin-URL">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
