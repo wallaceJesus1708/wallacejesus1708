@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <img src="https://64.media.tumblr.com/4a7ff6470446304e4dbde589908b582f/tumblr_mw7iflGf3V1smj5iyo1_500.gifv" width="350"/>
   <div id="badges">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/wallace-amorim-36b21729/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="your-youtube-URL">
+    <a href="https://www.youtube.com/@Wallace_Amorim">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
     <a href="your-twitter-URL">
